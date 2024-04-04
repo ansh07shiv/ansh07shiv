@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ansh07shiv
-- 👀 I’m interested in Algorithms and Data Structures
-- 🌱 I’m currently learning Algorithms
+- 👀 I’m interested in Full Stack Developer / Software Developer Opportunites
 - 💞️ I’m looking to collaborate on Research Opportunities
-- 📫 How to reach me at ansh.shivhare07@gmail.com
+- 📫 How to reach me at anshul.techdev@gmail.com
 
 <!---
 ansh07shiv/ansh07shiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
