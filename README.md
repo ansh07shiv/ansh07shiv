@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ansh07shiv
 - 👀 I’m interested in Full Stack Developer / Software Developer Opportunites
-- 💞️ I’m looking to collaborate on Research Opportunities
 - 📫 How to reach me at anshul.techdev@gmail.com
 
 <!---
